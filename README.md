@@ -6,5 +6,5 @@
 4. In case you are uploading multiple pages against the question, you should mention the Page Number in the top right corner of the page.
 5. Make sure that the scan of your answers are clear and have legible handwriting.
 
-Q1. Develop an android application to demonstrate Implicit as well as Explicit Intent.
-Q2. Develop an android application to demonstrate activity life cycle using logcat.
+**Q1.** Develop an android application to demonstrate Implicit as well as Explicit Intent.
+**Q2.** Develop an android application to demonstrate activity life cycle using logcat.
