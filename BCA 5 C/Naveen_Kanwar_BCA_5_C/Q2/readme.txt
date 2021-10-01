@@ -1,2 +1,2 @@
-2 Questions are uploaded
+This is 2nd Question
 Output is of 2nd Question
